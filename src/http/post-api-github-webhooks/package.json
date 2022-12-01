@@ -3,6 +3,6 @@
   "type": "commonjs",
   "dependencies": {
     "@architect/functions": "^3.13.9",
-    "probot": "^11.0.6"
+    "probot": "^11.4.1"
   }
 }
